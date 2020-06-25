@@ -1,0 +1,13 @@
+{
+  "name": "Singleton",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpileOnly Main.ts"
+  },
+  "dependencies": {
+    "typescript": "^3.9.5"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.0.0-pre.49"
+  }
+}
